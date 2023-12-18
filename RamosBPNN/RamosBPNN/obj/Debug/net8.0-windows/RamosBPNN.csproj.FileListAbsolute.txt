@@ -1,0 +1,16 @@
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\bin\Debug\net8.0-windows\RamosBPNN.exe
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\bin\Debug\net8.0-windows\RamosBPNN.deps.json
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\bin\Debug\net8.0-windows\RamosBPNN.runtimeconfig.json
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\bin\Debug\net8.0-windows\RamosBPNN.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\bin\Debug\net8.0-windows\RamosBPNN.pdb
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.Form1.resources
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.csproj.GenerateResource.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.AssemblyInfoInputs.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.AssemblyInfo.cs
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.csproj.CoreCompileInputs.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\refint\RamosBPNN.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.pdb
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\RamosBPNN.genruntimeconfig.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosBPNN\RamosBPNN\obj\Debug\net8.0-windows\ref\RamosBPNN.dll
